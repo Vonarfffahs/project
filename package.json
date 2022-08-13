@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Vonarfffahs/project.git"
+  },
+  "author": "Victor Vonarfffahs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vonarfffahs/project/issues"
+  },
+  "homepage": "https://github.com/Vonarfffahs/project#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
